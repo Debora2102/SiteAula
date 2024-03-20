@@ -23,6 +23,10 @@ header {
 }
 
 * {
+    .estudante-titulo{
+text-align: center;
+}
+    padding: 50px 0;
     margin: 0;
     padding: 0;
     }
